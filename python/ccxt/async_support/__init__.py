@@ -160,6 +160,7 @@ from ccxt.async_support.qryptos import qryptos                            # noqa
 from ccxt.async_support.quadrigacx import quadrigacx                      # noqa: F401
 from ccxt.async_support.quoinex import quoinex                            # noqa: F401
 from ccxt.async_support.rightbtc import rightbtc                          # noqa: F401
+from ccxt.async_support.satis import satis                                # noqa: F401
 from ccxt.async_support.southxchange import southxchange                  # noqa: F401
 from ccxt.async_support.surbitcoin import surbitcoin                      # noqa: F401
 from ccxt.async_support.theocean import theocean                          # noqa: F401
@@ -294,6 +295,7 @@ exchanges = [
     'quadrigacx',
     'quoinex',
     'rightbtc',
+    'satis',
     'southxchange',
     'surbitcoin',
     'theocean',

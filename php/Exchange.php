@@ -194,6 +194,7 @@ class Exchange {
         'quadrigacx',
         'quoinex',
         'rightbtc',
+        'satis',
         'southxchange',
         'surbitcoin',
         'theocean',
